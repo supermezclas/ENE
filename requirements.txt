@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+jinja2
+requests
+beautifulsoup4
+lxml
+newspaper3k
+readability-lxml
+python-docx
+openpyxl
+reportlab
+pillow
+pandas
+sqlalchemy
+aiohttp
+python-slugify
