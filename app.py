@@ -8,6 +8,9 @@ app = FastAPI(
     description="Centro de Inteligencia Editorial",
     version="0.1.0"
 )
+from Database.database import init_db
+
+init_db ()
 
 
 templates = Jinja2Templates(
